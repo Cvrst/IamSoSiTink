@@ -1,21 +1,3 @@
---[[  
-____  _              _____ _     _   ____                       
-/ ___|(_) ___ _   _  |_   _| |__ (_) / ___| _ __   __ _  ___ ___ 
-\___ \| |/ _ \ | | |   | | | '_ \| | \___ \| '_ \ / _` |/ __/ _ \
- ___) | |  __/ |_| |   | | | | | | |  ___) | |_) | (_| | (_|  __/
-|____/|_|\___|\__,_|   |_| |_| |_|_| |____/| .__/ \__,_|\___\___|
-                                           |_|                                         
-Siêu Thị Space Cảm Ơn Bạn Đã Tin Tưởng Và Sử Dụng Dịch Vụ Của Chúng Tôi, Nếu Thấy Hữu Ít Hãy Chia Sẻ Cho Bạn Bè Của Bạn !!
-- Website: sieuthispace.xyz
-- Page: fb.com/sieuthispace
-- Facebook Admin: fb.com/minhtien.dino Hoặc fb.com/nguyentiendino
-
---// Lưu Ý:
-- Không Được Share Hay Crack Mã Nguồn Này Cho Ai! Nếu Không Bạn Sẽ Bị Ban IP Khỏi Website Vĩnh Viễn!
-- Chúng Tôi Không Nhận Hỗ Trợ Những Mã Nguồn Miễn Phí, Xin Đừng Bảo Vì Sao. Tạo Ticket Hỗ Trợ Của Website Tại: https://dash.sieuthispace.xyz/client/ticket
-- Nếu Bạn Edit Source Và Up Web Share Nhớ Obfuscate Script. Nếu Bạn Có Tiền Thì Sử Dụng: Lura.Ph, Luarmor.Net | Nếu Bạn Không Có Tiền Thì Dùng: luaobfuscate.com, MoonSec, 77Fuscate,... Nhé!
-]]
----///--------------------------------------------------------------\\\---
 function isnil(thing)
 return (thing == nil)
 end
@@ -11502,7 +11484,7 @@ spawn(function()
             if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
                 wait(2.0)
                 OrionLib:MakeNotification({
-                    Name = "Min Gaming Hub",
+                    Name = "Blade Hub",
                     Content = "Turn Off Hop Find Moon Please",
                     Image = "rbxassetid://4483345998",
                     Time = 5
@@ -11510,7 +11492,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Min Gaming Hub",
+                    Name = "Blade Hub",
                     Content = "Hop Server",
                     Image = "rbxassetid://4483345998",
                     Time = 5
@@ -11518,7 +11500,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Min Gaming Hub",
+                    Name = "Blade Hub",
                     Content = "Hop Server",
                     Image = "rbxassetid://4483345998",
                     Time = 5
@@ -11526,7 +11508,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Min Gaming Hub",
+                    Name = "Blade Hub",
                     Content = "Hop Server",
                     Image = "rbxassetid://4483345998",
                     Time = 5
